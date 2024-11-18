@@ -34,13 +34,13 @@ Definição de prazos: Cada tarefa pode ser configurada com um prazo.
 
 Criação e edição de tarefas: Os usuários podem adicionar novas tarefas.
 
-![Tela de Login](assets/print1.png)
+![Tela de Login](projeto-completo/assets/print1.png)
 
-![Tela de Cadastro](assets/print2.png)
+![Tela de Cadastro](projeto-completo/assets/print2.png)
 
-![Tela do Menu do APP](assets/print3.png)
+![Tela do Menu do APP](projeto-completo/assets/print3.png)
 
-![Tela de Criar Eventos](assets/print4.png)
+![Tela de Criar Eventos](projeto-completo/assets/print4.png)
 
-![Tela de Detalhes dos Eventos](assets/pirnt5.png)
+![Tela de Detalhes dos Eventos](projeto-completo/assets/pirnt5.png)
 
