@@ -34,8 +34,13 @@ Definição de prazos: Cada tarefa pode ser configurada com um prazo.
 
 Criação e edição de tarefas: Os usuários podem adicionar novas tarefas.
 
+![print1](assets.png)
 
-Em repositórios do GitHub recomenda-se que imagens, vídeos, etc. sejam anexados de forma local utilizando `![Nome do arquivo](local do arquivo)`. Por exemplo, para adicionar uma imagem utiliza-se o seguinte:
-[print1]()
+![print2](assets.png)
 
-![FEI](./FEI.jpeg)
+![print3](assets.png)
+
+![print4](assets.png)
+
+![pirnt](assets.png)
+
