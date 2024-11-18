@@ -34,13 +34,13 @@ Definição de prazos: Cada tarefa pode ser configurada com um prazo.
 
 Criação e edição de tarefas: Os usuários podem adicionar novas tarefas.
 
-![print1](assets.png)
+![print1](assets)
 
-![print2](assets.png)
+![print2](assets)
 
-![print3](assets.png)
+![print3](assets)
 
-![print4](assets.png)
+![print4](assets)
 
-![pirnt](assets.png)
+![pirnt5](assets)
 
