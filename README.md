@@ -13,8 +13,8 @@ Este relatório apresenta o desenvolvimento e os resultados do projeto realizado
 # Motivação
 
 - Necessidade pessoal: A dificuldade em organizar tarefas e prazos importantes foi um fator determinante na escolha deste tema.
-- UAprendizado prático: A implementação do projeto ofereceu uma oportunidade de explorar tecnologias como React Native.
-- Solução de um problema cotidiano: Muitos usuários enfrentam desafios ao tentar equilibrar atividades pessoais e profissionais. O aplicativo foi projetado para simplificar essa gestão.
+- Aprendizado prático: A implementação do projeto ofereceu uma oportunidade de explorar tecnologias como React Native.
+- Solução de um problema cotidiano: Muitos usuários enfrentam desafios ao tentar equilibrar atividades pessoais e profissionais. O aplicativo foi pensado para simplificar essa gestão.
 
 
 # Objetivo
